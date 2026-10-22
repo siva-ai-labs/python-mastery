@@ -3,7 +3,7 @@ A comprehensive collection of Python programming concepts, hands-on examples, co
 
 1. Clone the repository
 
-git clone https://github.com/siva-ai-labs/python-mastery.git
+git clone https://github.com/siva-ai-labs/python-mastery.git 
 cd python-mastery/01-python-basics
 
 Replace the repository URL if your actual repository has a different name.
